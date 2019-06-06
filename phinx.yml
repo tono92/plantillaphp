@@ -19,7 +19,7 @@ environments:
         host: localhost
         name: blogphp
         user: root
-        pass: '44865710'
+        pass: '44865710'  
         port: 3306
         charset: utf8
 
